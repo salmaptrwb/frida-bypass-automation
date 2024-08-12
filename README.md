@@ -1,4 +1,4 @@
-# **Frida Script Automation for Bypassing Root Detection & SSL Pinning**
+# **Python Script Automation for Bypassing Root Detection & SSL Pinning using Frida**
 
 This Python script automates the process of bypassing root detection and SSL pinning in mobile applications using Frida. Instead of running each Frida JavaScript (JS) script manually, this automation script will execute them one by one and determine which one successfully bypasses the app's security mechanisms.
 
