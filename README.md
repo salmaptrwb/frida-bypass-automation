@@ -26,7 +26,7 @@ Ensure that both adb and frida are installed and accessible from your command li
 1. **Run the Script**:
   ```bash
    cd frida-bypass-automation
-   python frida_bypass_automation.py
+   python frida-bypass-automation.py
 ```
 
 2. **Follow the Prompts**:
@@ -35,7 +35,7 @@ Ensure that both adb and frida are installed and accessible from your command li
      
 ## **Example**
 ```
-$ python frida_bypass_automation.py
+$ python frida-bypass-automation.py
 === Frida Script Executor ===
 
 === Running Processes ===
